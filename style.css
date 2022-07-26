@@ -1,0 +1,21 @@
+/* common utilities */
+.penguin-text-color {
+    color: #FA804C;
+}
+/* header section  */
+/* ---nav--- */
+
+/* ---website main banner--- */
+header.header-bg {
+    background-color: #FFF9F4;
+}
+/* -- main --  */
+.penguin-card-img-bg{
+    background-color:#f1f1f1;
+}
+
+/* --our benefits --  */
+.penguin-benefit-img{
+    width:82px;
+    height:78px;
+}
